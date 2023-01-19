@@ -1,0 +1,7 @@
+:root {
+    --font-size-main: 22px;
+    --font-color: #000000;
+    /* --backgr-main: linear-gradient(#e7f0f0, #557b7d); */
+    --width-container: 1200px; 
+    --letter-spac: 4%;
+}
